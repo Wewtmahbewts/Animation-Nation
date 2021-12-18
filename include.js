@@ -749,7 +749,14 @@ let cards = [
 		imageLink: "./Art/haider/sun-moon.gif",
 		author: "Haider",
 		githubLink: "https://github.com/hyderumer"
-	}
+	},
+  {
+    artName: "Triangle",
+    pageLink: "./Art/Wewtmahbewts/index.html",
+    imageLink: "./Art/Wewtmahbewts/triangle.gif",
+    author: "Wewtmahbewts",
+    githubLink: "https://github.com/Wewtmahbewts"
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
